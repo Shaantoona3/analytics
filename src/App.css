@@ -1,0 +1,12 @@
+.app-container {
+  padding: 20;
+  flex-grow: 1;
+}
+
+.data-card {
+  background-color: blue;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+}
